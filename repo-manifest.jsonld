@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/run-llama/template-workflow-extract-reconcile-invoice/commit/74792fc12acf525254508def62bf833f9493e8e9",
       "git:hexsha": "74792fc12acf525254508def62bf833f9493e8e9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T01:22:09.538439+00:00"
     },
     {
       "@id": "https://repolex.ai/r/run-llama/template-workflow-extract-reconcile-invoice/commit/ffe38420302b7cb394fb6bc962b08a419b78e3dd",
